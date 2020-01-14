@@ -1,4 +1,8 @@
+Katacoda is setting up a new React application. Begin coding once the server starts and "Welcome to PatternFly" appears on the lower pane.
+
 Create a basic select component.
+
+Katacoda is setting up a new React application. Begin coding once the server starts and "Welcome to PatternFly" appears on the lower pane.
 
 1) **Navigate to the `src` folder and open `src/App.js`{{open}}**
 
